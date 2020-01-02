@@ -6,8 +6,6 @@ Note taking app on NodeJS
 
 2.FTP/Copy the contents of the zip to your newly created folder
 
-3.Enter folder: cd expressCart
-
 4.Install dependencies: npm install
 
-5.Start application: npm start 
+5.Start application: node app.js --help
